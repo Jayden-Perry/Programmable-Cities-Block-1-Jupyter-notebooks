@@ -1,0 +1,264 @@
+FID,PCODE,N_05_70K,N_15_100k,N_05_15,Cat_05_70K,Cat_15_100,Cat_05_15,Sub_indic
+1,2000,25,15,-10,20 to 39%,Less than 20%,Less affordable,Sydney
+2,2006,0,0,0,low sales volume,low sales volume,low sales volume,University Of Sydney
+3,2007,50,30,-20,40 to 59%,20 to 39%,Less affordable,Ultimo
+4,2008,35,15,-20,20 to 39%,Less than 20%,Less affordable,Chippendale
+5,2080,10,0,0,Less than 20%,low sales volume,low sales volume,Mount Kuring-gai
+6,2081,5,10,5,Less than 20%,Less than 20%,About the same,Berowra
+7,2082,5,10,5,Less than 20%,Less than 20%,About the same,Berowra Heights
+8,2083,0,35,0,low sales volume,20 to 39%,low sales volume,Brooklyn
+9,2084,5,5,0,Less than 20%,Less than 20%,About the same,Terrey Hills
+10,2009,25,10,-15,20 to 39%,Less than 20%,Less affordable,Pyrmont
+11,2010,35,15,-20,20 to 39%,Less than 20%,Less affordable,Surry Hills
+12,2085,10,10,0,Less than 20%,Less than 20%,About the same,Davidson
+13,2086,5,5,0,Less than 20%,Less than 20%,About the same,Frenchs Forest
+14,2087,5,5,0,Less than 20%,Less than 20%,About the same,Forestville
+15,2088,15,10,-5,Less than 20%,Less than 20%,About the same,Mosman
+16,2011,40,30,-10,40 to 59%,20 to 39%,Less affordable,Potts Point
+17,2089,15,10,-5,Less than 20%,Less than 20%,About the same,Neutral Bay
+18,2090,15,10,-5,Less than 20%,Less than 20%,About the same,Cremorne
+19,2092,10,5,-5,Less than 20%,Less than 20%,About the same,Seaforth
+20,2093,15,10,-5,Less than 20%,Less than 20%,About the same,Balgowlah
+21,2015,40,10,-30,40 to 59%,Less than 20%,Much less affordable,Alexandria
+22,2016,35,5,-30,20 to 39%,Less than 20%,Much less affordable,Redfern
+23,2112,30,10,-20,20 to 39%,Less than 20%,Less affordable,Ryde
+24,2113,20,5,-15,20 to 39%,Less than 20%,Less affordable,Macquarie Park
+25,2114,40,10,-30,40 to 59%,Less than 20%,Much less affordable,Denistone
+26,2017,20,5,-15,20 to 39%,Less than 20%,Less affordable,Waterloo
+27,2018,45,10,-35,40 to 59%,Less than 20%,Much less affordable,Rosebery
+28,2126,5,5,0,Less than 20%,Less than 20%,About the same,Cherrybrook
+29,2019,10,10,0,Less than 20%,Less than 20%,About the same,Botany
+30,2020,35,10,-25,20 to 39%,Less than 20%,Much less affordable,Mascot
+31,2021,15,10,-5,Less than 20%,Less than 20%,About the same,Paddington
+32,2129,0,0,0,low sales volume,low sales volume,low sales volume,Flemington Market
+33,2022,15,10,-5,Less than 20%,Less than 20%,About the same,Bondi Junction
+34,2023,5,5,0,Less than 20%,Less than 20%,About the same,Bellevue Hill
+35,2024,15,5,-10,Less than 20%,Less than 20%,Less affordable,Bronte
+36,2032,20,10,-10,20 to 39%,Less than 20%,Less affordable,Kingsford
+37,2025,5,5,0,Less than 20%,Less than 20%,About the same,Woollahra
+38,2026,15,10,-5,Less than 20%,Less than 20%,About the same,Bondi
+39,2027,10,10,0,Less than 20%,Less than 20%,About the same,Edgecliff
+40,2130,45,10,-35,40 to 59%,Less than 20%,Much less affordable,Summer Hill
+41,2028,10,5,-5,Less than 20%,Less than 20%,About the same,Double Bay
+42,2146,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Toongabbie
+43,2029,15,5,-10,Less than 20%,Less than 20%,Less affordable,Rose Bay
+44,2030,10,5,-5,Less than 20%,Less than 20%,About the same,Vaucluse
+45,2147,60,10,-50,60 to 79%,Less than 20%,Much less affordable,Seven Hills
+46,2148,75,30,-45,60 to 79%,20 to 39%,Much less affordable,Blacktown
+47,2031,20,10,-10,20 to 39%,Less than 20%,Less affordable,Randwick
+48,2033,20,10,-10,20 to 39%,Less than 20%,Less affordable,Kensington
+49,2038,20,10,-10,20 to 39%,Less than 20%,Less affordable,Annandale
+50,2154,5,5,0,Less than 20%,Less than 20%,About the same,Castle Hill
+51,2155,10,5,-5,Less than 20%,Less than 20%,About the same,Kellyville
+52,2156,5,5,0,Less than 20%,Less than 20%,About the same,Kenthurst
+53,2034,15,5,-10,Less than 20%,Less than 20%,Less affordable,Coogee
+54,2035,15,10,-5,Less than 20%,Less than 20%,About the same,Maroubra
+55,2036,25,10,-15,20 to 39%,Less than 20%,Less affordable,Matraville
+56,2157,5,5,0,Less than 20%,Less than 20%,About the same,Glenorie
+57,2037,25,15,-10,20 to 39%,Less than 20%,Less affordable,Glebe
+58,2048,20,10,-10,20 to 39%,Less than 20%,Less affordable,Stanmore
+59,2158,10,15,5,Less than 20%,Less than 20%,About the same,Dural
+60,2159,10,5,-5,Less than 20%,Less than 20%,About the same,Galston
+61,2039,10,5,-5,Less than 20%,Less than 20%,About the same,Rozelle
+62,2072,5,5,0,Less than 20%,Less than 20%,About the same,Gordon
+63,2073,5,5,0,Less than 20%,Less than 20%,About the same,Pymble
+64,2074,5,5,0,Less than 20%,Less than 20%,About the same,Turramurra
+65,2075,5,5,0,Less than 20%,Less than 20%,About the same,St Ives
+66,2076,5,5,0,Less than 20%,Less than 20%,About the same,Wahroonga
+67,2077,40,10,-30,40 to 59%,Less than 20%,Much less affordable,Hornsby
+68,2171,20,10,-10,20 to 39%,Less than 20%,Less affordable,Hoxton Park
+69,2172,0,5,0,low sales volume,Less than 20%,low sales volume,Sandy Point
+70,2173,25,5,-20,20 to 39%,Less than 20%,Less affordable,Holsworthy
+71,2040,10,5,-5,Less than 20%,Less than 20%,About the same,Leichhardt
+72,2041,10,5,-5,Less than 20%,Less than 20%,About the same,Balmain
+73,2042,25,15,-10,20 to 39%,Less than 20%,Less affordable,Newtown
+74,2043,10,5,-5,Less than 20%,Less than 20%,About the same,Erskineville
+75,2174,0,10,0,low sales volume,Less than 20%,low sales volume,Edmondson Park
+76,2044,20,10,-10,20 to 39%,Less than 20%,Less affordable,Tempe
+77,2045,10,5,-5,Less than 20%,Less than 20%,About the same,Haberfield
+78,2046,10,5,-5,Less than 20%,Less than 20%,About the same,Five Dock
+79,2047,5,5,0,Less than 20%,Less than 20%,About the same,Drummoyne
+80,2049,25,15,-10,20 to 39%,Less than 20%,Less affordable,Petersham
+81,2050,25,5,-20,20 to 39%,Less than 20%,Less affordable,Camperdown
+82,2052,0,0,0,low sales volume,low sales volume,low sales volume,UNSW Sydney
+83,2060,20,15,-5,20 to 39%,Less than 20%,About the same,North Sydney
+84,2061,10,5,-5,Less than 20%,Less than 20%,About the same,Milsons Point
+85,2062,15,5,-10,Less than 20%,Less than 20%,Less affordable,Cammeray
+86,2063,5,5,0,Less than 20%,Less than 20%,About the same,Northbridge
+87,2064,20,5,-15,20 to 39%,Less than 20%,Less affordable,Artarmon
+88,2065,15,10,-5,Less than 20%,Less than 20%,About the same,St Leonards
+89,2066,30,5,-25,20 to 39%,Less than 20%,Much less affordable,Lane Cove
+90,2079,10,5,-5,Less than 20%,Less than 20%,About the same,Mount Colah
+91,2067,15,5,-10,Less than 20%,Less than 20%,Less affordable,Chatswood
+92,2068,5,5,0,Less than 20%,Less than 20%,About the same,Willoughby
+93,2069,5,5,0,Less than 20%,Less than 20%,About the same,Roseville
+94,2070,10,5,-5,Less than 20%,Less than 20%,About the same,Lindfield
+95,2071,5,5,0,Less than 20%,Less than 20%,About the same,Killara
+96,2094,5,5,0,Less than 20%,Less than 20%,About the same,Fairlight
+97,2095,15,10,-5,Less than 20%,Less than 20%,About the same,Manly
+98,2096,20,10,-10,20 to 39%,Less than 20%,Less affordable,Curl Curl
+99,2097,15,5,-10,Less than 20%,Less than 20%,Less affordable,Collaroy
+100,2099,30,10,-20,20 to 39%,Less than 20%,Less affordable,Dee Why
+101,2100,15,10,-5,Less than 20%,Less than 20%,About the same,Brookvale
+102,2101,20,10,-10,20 to 39%,Less than 20%,Less affordable,Narrabeen
+103,2102,5,5,0,Less than 20%,Less than 20%,About the same,Warriewood
+104,2103,15,15,0,Less than 20%,Less than 20%,About the same,Mona Vale
+105,2104,5,5,0,Less than 20%,Less than 20%,About the same,Bayview
+106,2105,5,5,0,Less than 20%,Less than 20%,About the same,Church Point
+107,2106,15,10,-5,Less than 20%,Less than 20%,About the same,Newport
+108,2107,10,5,-5,Less than 20%,Less than 20%,About the same,Avalon
+109,2108,5,5,0,Less than 20%,Less than 20%,About the same,Palm Beach
+110,2109,0,0,0,low sales volume,low sales volume,low sales volume,Macquarie University
+111,2110,10,10,0,Less than 20%,Less than 20%,About the same,Hunters Hill
+112,2111,30,10,-20,20 to 39%,Less than 20%,Less affordable,Gladesville
+113,2115,15,5,-10,Less than 20%,Less than 20%,Less affordable,Ermington
+114,2192,50,45,-5,40 to 59%,40 to 59%,About the same,Belmore
+115,2116,15,5,-10,Less than 20%,Less than 20%,Less affordable,Rydalmere
+116,2117,20,10,-10,20 to 39%,Less than 20%,Less affordable,Dundas
+117,2118,15,5,-10,Less than 20%,Less than 20%,Less affordable,Carlingford
+118,2128,30,25,-5,20 to 39%,20 to 39%,About the same,Silverwater
+119,2193,35,15,-20,20 to 39%,Less than 20%,Less affordable,Canterbury
+120,2119,5,5,0,Less than 20%,Less than 20%,About the same,Beecroft
+121,2120,20,5,-15,20 to 39%,Less than 20%,Less affordable,Pennant Hills
+122,2121,15,5,-10,Less than 20%,Less than 20%,Less affordable,Epping
+123,2122,30,5,-25,20 to 39%,Less than 20%,Much less affordable,Marsfield
+124,2125,5,5,0,Less than 20%,Less than 20%,About the same,West Pennant Hills
+125,2127,15,10,-5,Less than 20%,Less than 20%,About the same,Newington
+126,2131,55,15,-40,40 to 59%,Less than 20%,Much less affordable,Ashfield
+127,2198,25,10,-15,20 to 39%,Less than 20%,Less affordable,Georges Hall
+128,2132,20,5,-15,20 to 39%,Less than 20%,Less affordable,Croydon
+129,2203,45,15,-30,40 to 59%,Less than 20%,Much less affordable,Dulwich Hill
+130,2133,45,25,-20,40 to 59%,20 to 39%,Less affordable,Croydon Park
+131,2177,45,15,-30,40 to 59%,Less than 20%,Much less affordable,Bonnyrigg
+132,2134,25,10,-15,20 to 39%,Less than 20%,Less affordable,Burwood
+133,2178,0,0,0,low sales volume,low sales volume,low sales volume,Kemps Creek
+134,2179,0,5,0,low sales volume,Less than 20%,low sales volume,Leppington
+135,2214,5,15,10,Less than 20%,Less than 20%,More affordable,Milperra
+136,2135,25,10,-15,20 to 39%,Less than 20%,Less affordable,Strathfield
+137,2136,35,10,-25,20 to 39%,Less than 20%,Much less affordable,Strathfield South
+138,2137,15,5,-10,Less than 20%,Less than 20%,Less affordable,Concord
+139,2138,15,5,-10,Less than 20%,Less than 20%,Less affordable,Rhodes
+140,2139,0,0,0,low sales volume,low sales volume,low sales volume,Concord Hospital
+141,2140,65,15,-50,60 to 79%,Less than 20%,Much less affordable,Homebush
+142,2141,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Lidcombe
+143,2142,60,45,-15,60 to 79%,40 to 59%,Less affordable,Granville
+144,2143,60,15,-45,60 to 79%,Less than 20%,Much less affordable,Regents Park
+145,2144,60,40,-20,60 to 79%,40 to 59%,Less affordable,Auburn
+146,2145,50,25,-25,40 to 59%,20 to 39%,Much less affordable,Wentworthville
+147,2150,70,35,-35,60 to 79%,20 to 39%,Much less affordable,Parramatta
+148,2151,40,20,-20,40 to 59%,20 to 39%,Less affordable,North Parramatta
+149,2152,45,20,-25,40 to 59%,20 to 39%,Much less affordable,Northmead
+150,2153,15,5,-10,Less than 20%,Less than 20%,Less affordable,Baulkham Hills
+151,2160,60,40,-20,60 to 79%,40 to 59%,Less affordable,Merrylands
+152,2161,60,35,-25,60 to 79%,20 to 39%,Much less affordable,Guildford
+153,2162,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Sefton
+154,2163,85,50,-35,Over 80%,40 to 59%,Much less affordable,Villawood
+155,2164,60,15,-45,60 to 79%,Less than 20%,Much less affordable,Smithfield
+156,2165,75,40,-35,60 to 79%,40 to 59%,Much less affordable,Fairfield
+157,2166,80,40,-40,Over 80%,40 to 59%,Much less affordable,Cabramatta
+158,2167,75,35,-40,60 to 79%,20 to 39%,Much less affordable,Glenfield
+159,2168,65,20,-45,60 to 79%,20 to 39%,Much less affordable,Hinchinbrook
+160,2170,60,40,-20,60 to 79%,40 to 59%,Less affordable,Liverpool
+161,2175,0,0,0,low sales volume,low sales volume,low sales volume,Horsley Park
+162,2176,35,15,-20,20 to 39%,Less than 20%,Less affordable,Abbotsbury
+163,2190,30,15,-15,20 to 39%,Less than 20%,Less affordable,Greenacre
+164,2191,25,5,-20,20 to 39%,Less than 20%,Less affordable,Belfield
+165,2194,65,30,-35,60 to 79%,20 to 39%,Much less affordable,Campsie
+166,2195,80,80,0,Over 80%,Over 80%,About the same,Lakemba
+167,2196,50,35,-15,40 to 59%,20 to 39%,Less affordable,Punchbowl
+168,2197,25,5,-20,20 to 39%,Less than 20%,Less affordable,Bass Hill
+169,2199,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Yagoona
+170,2222,50,25,-25,40 to 59%,20 to 39%,Much less affordable,Penshurst
+171,2223,35,15,-20,20 to 39%,Less than 20%,Less affordable,Oatley
+172,2224,15,5,-10,Less than 20%,Less than 20%,Less affordable,Sylvania
+173,2225,5,5,0,Less than 20%,Less than 20%,About the same,Oyster Bay
+174,2226,15,10,-5,Less than 20%,Less than 20%,About the same,Como
+175,2227,20,5,-15,20 to 39%,Less than 20%,Less affordable,Gymea
+176,2228,30,10,-20,20 to 39%,Less than 20%,Less affordable,Miranda
+177,2200,60,40,-20,60 to 79%,40 to 59%,Less affordable,Bankstown
+178,2229,20,15,-5,20 to 39%,Less than 20%,About the same,Caringbah
+179,2230,35,15,-20,20 to 39%,Less than 20%,Less affordable,Cronulla
+180,2231,0,0,0,low sales volume,low sales volume,low sales volume,Kurnell
+181,2204,35,15,-20,20 to 39%,Less than 20%,Less affordable,Marrickville
+182,2232,40,15,-25,40 to 59%,Less than 20%,Much less affordable,Sutherland
+183,2233,20,5,-15,20 to 39%,Less than 20%,Less affordable,Heathcote
+184,2234,10,5,-5,Less than 20%,Less than 20%,About the same,Menai
+185,2250,0,60,0,low sales volume,60 to 79%,low sales volume,Gosford
+186,2251,0,30,0,low sales volume,20 to 39%,low sales volume,Avoca Beach
+187,2256,0,45,0,low sales volume,40 to 59%,low sales volume,Woy Woy
+188,2257,0,35,0,low sales volume,20 to 39%,low sales volume,Ettalong Beach
+189,2258,0,50,0,low sales volume,40 to 59%,low sales volume,Ourimbah
+190,2259,0,65,0,low sales volume,60 to 79%,low sales volume,Wyong
+191,2260,0,15,0,low sales volume,Less than 20%,low sales volume,Terrigal
+192,2261,0,60,0,low sales volume,60 to 79%,low sales volume,The Entrance
+193,2262,0,95,0,low sales volume,Over 80%,low sales volume,Budgewoi
+194,2263,0,85,0,low sales volume,Over 80%,low sales volume,Toukley
+195,2555,0,0,0,low sales volume,low sales volume,low sales volume,Badgerys Creek
+196,2205,30,10,-20,20 to 39%,Less than 20%,Less affordable,Wolli Creek
+197,2206,20,5,-15,20 to 39%,Less than 20%,Less affordable,Earlwood
+198,2207,35,10,-25,20 to 39%,Less than 20%,Much less affordable,Bexley
+199,2563,0,0,0,low sales volume,low sales volume,low sales volume,Menangle Park
+200,2564,95,60,-35,Over 80%,60 to 79%,Much less affordable,Macquarie Fields
+201,2208,10,10,0,Less than 20%,Less than 20%,About the same,Kingsgrove
+202,2568,30,0,0,20 to 39%,low sales volume,low sales volume,Menangle
+203,2569,0,0,0,low sales volume,low sales volume,low sales volume,Douglas Park
+204,2570,45,20,-25,40 to 59%,20 to 39%,Much less affordable,Camden
+205,2571,55,35,-20,40 to 59%,20 to 39%,Less affordable,Picton
+206,2572,45,35,-10,40 to 59%,20 to 39%,Less affordable,Thirlmere
+207,2573,80,65,-15,Over 80%,60 to 79%,Less affordable,Tahmoor
+208,2574,70,35,-35,60 to 79%,20 to 39%,Much less affordable,Bargo
+209,2745,40,15,-25,40 to 59%,Less than 20%,Much less affordable,Glenmore Park
+210,2209,25,10,-15,20 to 39%,Less than 20%,Less affordable,Beverly Hills
+211,2210,20,5,-15,20 to 39%,Less than 20%,Less affordable,Peakhurst
+212,2211,20,5,-15,20 to 39%,Less than 20%,Less affordable,Padstow
+213,2212,20,5,-15,20 to 39%,Less than 20%,Less affordable,Revesby
+214,2747,90,40,-50,Over 80%,40 to 59%,Much less affordable,Werrington
+215,2213,15,5,-10,Less than 20%,Less than 20%,Less affordable,East Hills
+216,2216,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Rockdale
+217,2217,45,10,-35,40 to 59%,Less than 20%,Much less affordable,Kogarah
+218,2218,55,5,-50,40 to 59%,Less than 20%,Much less affordable,Carlton
+219,2219,35,10,-25,20 to 39%,Less than 20%,Much less affordable,Sans Souci
+220,2220,40,10,-30,40 to 59%,Less than 20%,Much less affordable,Hurstville
+221,2221,15,5,-10,Less than 20%,Less than 20%,Less affordable,Blakehurst
+222,2556,0,0,0,low sales volume,low sales volume,low sales volume,Bringelly
+223,2557,0,15,0,low sales volume,Less than 20%,low sales volume,Rossmore
+224,2558,90,50,-40,Over 80%,40 to 59%,Much less affordable,Eagle Vale
+225,2559,0,0,0,low sales volume,low sales volume,low sales volume,Claymore
+226,2560,80,50,-30,Over 80%,40 to 59%,Much less affordable,Campbelltown
+227,2565,80,35,-45,Over 80%,20 to 39%,Much less affordable,Ingleburn
+228,2566,85,40,-45,Over 80%,40 to 59%,Much less affordable,Minto
+229,2567,40,15,-25,40 to 59%,Less than 20%,Much less affordable,Narellan
+230,2748,0,0,0,low sales volume,low sales volume,low sales volume,Orchard Hills
+231,2749,75,35,-40,60 to 79%,20 to 39%,Much less affordable,Castlereagh
+232,2750,75,40,-35,60 to 79%,40 to 59%,Much less affordable,Penrith
+233,2752,55,35,-20,40 to 59%,20 to 39%,Less affordable,Silverdale
+234,2753,60,40,-20,60 to 79%,40 to 59%,Less affordable,Richmond
+235,2754,45,30,-15,40 to 59%,20 to 39%,Less affordable,North Richmond
+236,2756,60,30,-30,60 to 79%,20 to 39%,Much less affordable,Windsor
+237,2757,0,0,0,low sales volume,low sales volume,low sales volume,Kurmond
+238,2758,15,20,5,Less than 20%,20 to 39%,About the same,Kurrajong
+239,2759,70,15,-55,60 to 79%,Less than 20%,Much less affordable,St Clair
+240,2760,95,50,-45,Over 80%,40 to 59%,Much less affordable,St Marys
+241,2761,80,25,-55,Over 80%,20 to 39%,Much less affordable,Plumpton
+242,2762,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Schofields
+243,2763,50,10,-40,40 to 59%,Less than 20%,Much less affordable,Quakers Hill
+244,2765,50,15,-35,40 to 59%,Less than 20%,Much less affordable,Riverstone
+245,2766,65,30,-35,60 to 79%,20 to 39%,Much less affordable,Rooty Hill
+246,2767,70,15,-55,60 to 79%,Less than 20%,Much less affordable,Doonside
+247,2768,15,5,-10,Less than 20%,Less than 20%,Less affordable,Parklea
+248,2769,0,5,0,low sales volume,Less than 20%,low sales volume,The Ponds
+249,2770,90,75,-15,Over 80%,60 to 79%,Less affordable,Mount Druitt
+250,2773,20,5,-15,20 to 39%,Less than 20%,Less affordable,Glenbrook
+251,2774,45,30,-15,40 to 59%,20 to 39%,Less affordable,Blaxland
+252,2775,0,70,0,low sales volume,60 to 79%,low sales volume,Lower Hawkesbury
+253,2783,85,70,-15,Over 80%,60 to 79%,Less affordable,Lawson
+254,2776,45,40,-5,40 to 59%,40 to 59%,About the same,Faulconbridge
+255,2777,60,35,-25,60 to 79%,20 to 39%,Much less affordable,Hawkesbury Heights
+256,2784,0,0,0,low sales volume,low sales volume,low sales volume,Bullaburra
+257,2785,70,65,-5,60 to 79%,60 to 79%,About the same,Blackheath
+258,2786,70,85,15,60 to 79%,Over 80%,More affordable,Mount Victoria
+259,2787,0,90,0,low sales volume,Over 80%,low sales volume,Oberon
+260,2778,55,55,0,40 to 59%,40 to 59%,About the same,Woodford
+261,2779,80,75,-5,Over 80%,60 to 79%,About the same,Hazelbrook
+262,2780,60,65,5,60 to 79%,60 to 79%,About the same,Katoomba
+263,2782,45,45,0,40 to 59%,40 to 59%,About the same,Wentworth Falls
